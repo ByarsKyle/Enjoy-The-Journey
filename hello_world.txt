@@ -1,0 +1,7 @@
+Hello, this is my first git commit of a text file .. lol 
+
+Check back in 3 months on my progress
+
+.. lol
+
+.. Why am I still typing. I guess now it's time to learn how to save a nano file 
